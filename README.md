@@ -1,5 +1,5 @@
-# polycracker-contracts
-contracts for the polywantsacracker farm
+# Femboy Finance Contracts
+contracts for the Femboy Finance Farm
 
 LithToken    @ [0xfE1a200637464FBC9B60Bc7AeCb9b86c0E1d486E](https://polygonscan.com/address/0xfE1a200637464FBC9B60Bc7AeCb9b86c0E1d486E)
 
